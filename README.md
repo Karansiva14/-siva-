@@ -163,7 +163,7 @@ print(me.motto())
 
 | 🎯 | Achievement | Details |
 |---|---|---|
-| 🎓 | IIT Minor Program | Artificial Intelligence & Data Science, IIT Mandi — CGPA **8.0**, Expected 2026 |
+| 🎓 | IIT Minor Program | Artificial Intelligence & Data Science, IIT Mandi — CGPA **8.0**, 2025 - 2026 |
 | 📈 | Churn Model Performance | **87% accuracy**, **0.91 AUC-ROC** on 5,000+ telecom records |
 | ⚡ | RAG Latency | TalentScan AI resume analysis in **under 3 seconds** |
 | 🔍 | Biometric Accuracy | **99%+** fingerprint match accuracy across 50 enrolled users, <1s auth time |
