@@ -148,7 +148,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[ECHO — Voice-Controlled AI Agent](https://github.com/karansiva14/echo-personal-agent)** | LangGraph · Groq (Llama 3.3 70B + Whisper) · ChromaDB · FastAPI · Docker | JARVIS-style ReAct agent with **6 live skills**, full voice I/O pipeline, persistent long-term memory via vector embeddings, zero added latency |
+| **[ECHO — Voice-Controlled AI Agent](https://github.com/karansiva14/echo-personal-agent)** | LangGraph · Groq (Llama 3.3 70B + Whisper) · ChromaDB · FastAPI · Docker | ReAct agent with **6 live skills**, full voice I/O pipeline, persistent long-term memory via vector embeddings, zero added latency |
 | **[TalentScan AI (Flagship)](https://github.com/karansiva14/TalentScan-AI)** — [Live Demo](https://huggingface.co/spaces/karansiva14/talentscan-ai) | LLaMA 3 70B · FAISS · LangChain · PyMuPDF · Streamlit | End-to-end RAG resume analyzer, **sub-3s latency**, cuts manual resume review time by **90%+** |
 | **[DataLens AI](https://github.com/karansiva14/DataLens-AI)** — [Live Demo](https://huggingface.co/spaces/karansiva14/datalens-ai) | LLaMA 3 70B (Groq) · Streamlit · Plotly · Pandas | Dual-LLM natural-language data explorer, **sub-1s** insights, handles up to **200MB / 100K+ rows** |
 | **[StockSage AI](https://github.com/karansiva14/StockSage-AI)** | Scikit-learn · Streamlit · Pandas · Matplotlib | **7–60 day** price forecasts with **95% confidence intervals**, RSI/MACD/Bollinger Bands, MAE/RMSE-validated |
@@ -180,7 +180,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| Minor in Artificial Intelligence & Data Science | Indian Institute of Technology (IIT) Mandi | Expected 2026 | CGPA 8.0 |
+| Minor in Artificial Intelligence & Data Science | Indian Institute of Technology (IIT) Mandi | 2025 - 2026 | CGPA 8.0 |
 | B.E. Electronics and Communication Engineering | Hindusthan College of Engineering and Technology | 2018 – 2022 | CGPA 7.10 |
 
 </div>
